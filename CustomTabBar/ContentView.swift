@@ -68,7 +68,7 @@ struct ContentView: View {
                 .shadow(radius: 5)
             }
         }
-        .background(Color.gray)
+        .background(Color.blue)
         .edgesIgnoringSafeArea(.top)
     }
 }
